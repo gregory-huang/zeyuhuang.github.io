@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Homepage of Zeyu Huang
 
 You can use the [editor on GitHub](https://github.com/gregory-huang/zeyuhuang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
